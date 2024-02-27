@@ -10,5 +10,8 @@
     "type": "git",
     "url": "https://github.com/printminion-co/mk-test-delete.git"
   },
+  "publishConfig": {
+    "@printminion-co:registry": "https://npm.pkg.github.com"
+  },
   "private": true
 }
